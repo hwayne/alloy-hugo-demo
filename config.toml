@@ -1,0 +1,5 @@
+baseURL = "http://alloytools.org"
+languageCode = "en-us"
+title = "Alloytools Prototype"
+theme = "ananke"
+Paginate = "40" # Number of posts per page
