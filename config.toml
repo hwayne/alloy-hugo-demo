@@ -3,3 +3,9 @@ languageCode = "en-us"
 title = "Alloytools Prototype"
 theme = "ananke"
 Paginate = "40" # Number of posts per page
+
+# main page bar goes here somewhere
+
+[permalinks]
+# Probably temporary, get feedback of team
+ page = "/:filename/" #removes the /page/

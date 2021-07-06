@@ -1,7 +1,9 @@
 ---
-layout: page
 title: About Alloy
-main: about
+menu: main
+
+aliases:
+  - /about.html
 
 ---
 
