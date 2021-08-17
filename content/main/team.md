@@ -1,26 +1,32 @@
 ---
-title: Team
+title: team
 menu: main
+omit_header_text: true
 
 aliases:
   - /team.html
-
 ---
 
-Alloy is a product of the [Software Design Group](http://sdg.csail.mit.edu) at [MIT](http://mit.edu).
+Alloy is an [open source project](https://github.com/AlloyTools) maintained by a few key volunteers and a community of researchers. It was originally developed in the [Software Design Group](http://sdg.csail.mit.edu) at [MIT](http://mit.edu). The most recent version of Alloy is built on the MIT codebase; on the Kodkod engine, built by Emina Torlak in her thesis work at MIT, and now maintained by her as a free-standing model finder; and on a dynamic extension previously called Electrum, developed at ONERA and the University of Minho.
 
-### alloy team members
-
-* [Daniel Jackson](http://people.csail.mit.edu/dnj) – Project director
-* [Aleksandar Milicevic](http://people.csail.mit.edu/aleks) – Lead developer & Master guru
-* [Emina Torlak](http://people.csail.mit.edu/emina) – Developer, Kodkod engine
-* [Eunsuk Kang](http://people.csail.mit.edu/eskang) – General guru
-* [Joe Near](http://people.csail.mit.edu/jnear) – General guru
-
-### former team members
+The Alloy board oversees development of Alloy technology and resources, approves language extensions and helps to disseminate Alloy and support users.
 
 Major contributions to earlier versions of Alloy were made by: Felix
-Chang, Jonathan Edwards, Robert Seater, Derek Rayside, Greg Dennis, Ilya Shlyakhter, Mana Taghdiri, Mandana Vaziri, Sarfraz Khurshid, and Manu Sridharan.
+Chang, Jonathan Edwards, Eunsuk Kang, Joe Near, Robert Seater, Derek Rayside, Greg Dennis, Ilya Shlyakhter, Mana Taghdiri, Mandana Vaziri, Sarfraz Khurshid, and Manu Sridharan.
+
+
+### development team
+* [David Chemouil](http://foo)
+* [Peter Kriens]()
+* [Nuno Macedo](http://foo)
+* [Aleksandar Milicevic](http://people.csail.mit.edu/aleks)
+
+### alloy board
+
+* [Daniel Jackson](http://people.csail.mit.edu/dnj)
+* [Aleksandar Milicevic](http://people.csail.mit.edu/aleks)
+* [Emina Torlak](http://people.csail.mit.edu/emina)
+* [Eunsuk Kang](http://people.csail.mit.edu/eskang)
 
 ### acknowledgements
 
