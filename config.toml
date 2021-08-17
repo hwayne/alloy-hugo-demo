@@ -1,11 +1,13 @@
-baseURL = "https://hwayne.github.io/alloy-hugo-demo/"
+baseURL = "https://hwayne.github.io/alloy-hugo-demo"
 languageCode = "en-us"
-title = "Alloy"
+title = "alloy"
 theme = "ananke"
 Paginate = "40" # Number of posts per page
 
-# main page bar goes here somewhere
-
 [permalinks]
 # Probably temporary, get feedback of team
- page = "/:filename/" #removes the /page/
+page = "/:filename/" #removes the /page/
+
+[Params]
+background_color_class = "bg-navy"
+custom_css = ["custom.css"]

@@ -1,6 +1,7 @@
 ---
-title: About
+title: about
 menu: main
+omit_header_text: true
 
 aliases:
   - /about.html
@@ -22,9 +23,3 @@ Alloy is used by software designers to clarify their ideas and to check designs;
 The core Alloy language was developed at MIT between 1997 and 2002; Kodkod, a new and faster engine, was developed in 2006; an improved open source version was released in 2015; new support for dynamism was developed at ONERA and U. Minho and released in 2021. 
 
 **Where**  can I learn Alloy? The best way to learn Alloy is to download the tool, load an example model, and play with it. There’s an introductory paper and video; several tutorials (a, b and c); and a full length book. Alloy users answer questions tagged with #alloy on StackOverflow, and on the Alloy discourse.
-
-### acknowledgements
-
-Alloy is the product of a research project funded by the National Science Foundation under Grant Nos. [0325283](http://www.nsf.gov/awardsearch/showAward.do?AwardNumber=0325283), [0541183](http://www.nsf.gov/awardsearch/showAward.do?AwardNumber=0541183), [0438897](http://www.nsf.gov/awardsearch/showAward.do?AwardNumber=0438897) and [0707612](http://www.nsf.gov/awardsearch/showAward.do?AwardNumber=0707612); by the [Air Force Research Laboratory](http://www.wpafb.af.mil/AFRL/) (AFRL/IF) and the Disruptive Technology Office (DTO) in the National Intelligence Community Information Assurance Research (NICIAR) Program; and by the [Nokia Corporation](http://www.nokia.com) as part of a collaboration between [Nokia Research](http://research.nokia.com/) and [MIT CSAIL](http://www.csail.mit.edu/).
-
-
