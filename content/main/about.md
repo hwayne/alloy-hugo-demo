@@ -7,7 +7,6 @@ aliases:
   - /about.html
 
 ---
-
 **What** is Alloy?
 It's a little language for software modeling — essentially a logic for talking about structures and how they evolve  — and an accompanying tool that can simulate and check models, covering billions of cases in seconds.
 
