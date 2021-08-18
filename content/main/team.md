@@ -27,6 +27,7 @@ Chang, Jonathan Edwards, Eunsuk Kang, Joe Near, Robert Seater, Derek Rayside, Gr
 * [Aleksandar Milicevic](http://people.csail.mit.edu/aleks)
 * [Emina Torlak](http://people.csail.mit.edu/emina)
 * [Eunsuk Kang](http://people.csail.mit.edu/eskang)
+* [Pamela Zave](http://pamelazave.com)
 
 ### acknowledgements
 

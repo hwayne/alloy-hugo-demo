@@ -1,5 +1,6 @@
 ---
 title: models
+menu: main
 
 aliases:
   - /models.html
