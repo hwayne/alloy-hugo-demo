@@ -24,6 +24,7 @@ Chang, Jonathan Edwards, Eunsuk Kang, Joe Near, Robert Seater, Derek Rayside, Gr
 ### alloy board
 
 * [Daniel Jackson](http://people.csail.mit.edu/dnj)
+* [Alcino Cunha](https://alcinocunha.github.io)
 * [Aleksandar Milicevic](http://people.csail.mit.edu/aleks)
 * [Emina Torlak](http://people.csail.mit.edu/emina)
 * [Eunsuk Kang](http://people.csail.mit.edu/eskang)
